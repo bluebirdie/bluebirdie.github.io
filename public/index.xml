@@ -1,19 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Panfeng Liang</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Panfeng Liang</description>
+    <title>Dr. Bluebird</title>
+    <link>http://localhost:45897/</link>
+    <description>Recent content on Dr. Bluebird</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Feb 2024 13:37:54 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:45897/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 25 Feb 2024 13:37:54 -0700</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:45897/cv/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:45897/cv/</guid>
+      <description>EXPERIENCE&#xA;Research Statistician in Border Biomedical Research Center of UT El Paso January 2023 - Now Job description: providing statistical consulting service Present statistical results, using charts, bullets, and graphs, in meetings to clients data cleaning and data preparation Research Specialist in Border Biomedical Research Center of UT El Paso July 2023 - December 2023 Supervisor: Amy Wagler Job description: statistical consulting Research Assistant in Data Analytics Lab of UT El Paso September 2020 - June 2023 Job description: data cleaning and data preparation SAS/R/Matlab programming programming for statistical modeling Teaching Assistant August 2015 - August 2020 Job description: Hosting workshops, grading assignments, and tutoring math for undergraduate students.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:45897/posts/markdown-syntax/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:45897/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:45897/posts/rich-content/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:45897/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>More Rich Content</title>
+      <link>http://localhost:45897/posts/more-rich-content/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:45897/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:45897/posts/math-typesetting/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:45897/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:45897/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:45897/contact/</guid>
+      <description>datalab@utep.edu.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:45897/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:45897/projects/</guid>
+      <description>Link to heading Adjuvant Chemotherapy Benefit in Stage IB/IIA Lung Cancer with National Cancer Database data&#xA;Volume-outcome Association in Pancreatic Cancer Surgery with HEALTHCARE COST &amp;amp; UTILIZATION PROJECT data&#xA;Legg-Calvé-Perthes Disease: Trends in Treatment with IBM® RED BOOK™ and MarketScan® Research Database data&#xA;The influence of students&amp;rsquo; food security on their degree completion and academic concentration in UT El paso</description>
     </item>
   </channel>
 </rss>

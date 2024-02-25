@@ -1,27 +1,26 @@
 baseurl = "http://www.example.com"
-title = "Panfeng Liang"
+title = "Dr. Bluebird"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
+paginate = 6
+enableEmoji = true
 
 disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
-style = "github-dark"
+noClasses = false
 
 [params]
   author = "Panfeng Liang"
   info = "Research Statistician"
   description = "My personal website"
   keywords = "blog, statistics, consulting, personal"
-  avatarurl = "images/avatar.jpg"
-  gravatar = "pliang2@utep.edu"
+  avatarurl = "images/avatar.png"
+  faviconSVG = "images/logos/favicon.svg"
+  math=true
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
 
   since = 2023
 
@@ -30,10 +29,8 @@ style = "github-dark"
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-  # customCSS = ["css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
 
+   
 [taxonomies]
   category = "categories"
   series = "series"
@@ -42,26 +39,23 @@ style = "github-dark"
 
 # Social links
 [[params.social]]
-  name = "Github"
-  icon = "fa-brands fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/johndoe/"
-[[params.social]]
   name = "Gitlab"
   icon = "fa-brands fa-gitlab fa-2x"
   weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://github.com/bluebirdie"
+
 [[params.social]]
-  name = "Twitter"
-  icon = "fa-brands fa-x-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/johndoe/"
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://www.linkedin.com/in/johndoe/"
+
 
 # Menu links
 [[menu.main]]
-  name = "About"
+  name = "CV"
   weight = 2
-  url = "about/"
+  url = "cv/"
 [[menu.main]]
   name = "Blog"
   weight = 1
@@ -69,9 +63,9 @@ style = "github-dark"
 [[menu.main]]
   name = "Projects"
   weight = 1
-  url  = "posts/"
+  url  = "projects/"
 [[menu.main]]
   name = "Contact me"
   weight = 1
-  url  = "posts/"
+  url  = "contact/"
 
