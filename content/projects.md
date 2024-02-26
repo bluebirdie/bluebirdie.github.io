@@ -3,8 +3,6 @@ title = "Projects"
 slug = "projects"
 +++
 
-## 
-
 - Adjuvant Chemotherapy Benefit in Stage IB/IIA Lung Cancer with National Cancer Database data
 
 - Volume-outcome Association in Pancreatic Cancer Surgery with HEALTHCARE COST & UTILIZATION PROJECT data
