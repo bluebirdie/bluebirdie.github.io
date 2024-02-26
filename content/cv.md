@@ -33,6 +33,7 @@ date = "2024-02-25"
   
 - **Software Engineer**
   September 2013 - May 2015
+  
   Shanghai Integle Information Technology Limited Company
   
   Job description: Developing a notebook to record chemistry experiments 
