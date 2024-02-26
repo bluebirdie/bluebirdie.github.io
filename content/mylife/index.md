@@ -5,7 +5,7 @@ title = "Personal Life"
 
 
 
-I am a animal lover. I live with many pets.
+I am an animal lover. I live with many pets.
 
 First, let's meet my adorable parrotlet Smurf. He is a two year old boy and he can say a few words, such as "Peekaboo", "Birdie Birdie", and "Pikachu". Smurf loves hemp seeds and millet sprays. Parrotlets have tiny body but big personality. They are very smart creatures and not as loud as many other parrots.
 
