@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mylives on Dr. Bluebird</title>
+    <link>http://localhost:1313/mylife/</link>
+    <description>Recent content in Mylives on Dr. Bluebird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/mylife/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Life</title>
+      <link>http://localhost:1313/mylife/mylife/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mylife/mylife/</guid>
+      <description>Meet my adorable parrotlet Smurf. He is a two year old boy and he can say a few words, such as &amp;ldquo;Peekaboo&amp;rdquo;, &amp;ldquo;Birdie Birdie&amp;rdquo;, and &amp;ldquo;Pikachu&amp;rdquo;. Smurf loves hemp seeds and millet sprays.&#xA;This is my female canary, and she is stealing Smurf&amp;rsquo;s hemp seeds. </description>
+    </item>
+  </channel>
+</rss>

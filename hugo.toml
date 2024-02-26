@@ -53,19 +53,28 @@ url = "https://www.linkedin.com/in/panfeng-liang-308201256/"
 
 # Menu links
 [[menu.main]]
+  name = "About me"
+  weight = 1
+  url = "about/"
+[[menu.main]]
   name = "CV"
   weight = 2
   url = "cv/"
 [[menu.main]]
   name = "Blog"
-  weight = 1
+  weight = 3
   url  = "posts/"
 [[menu.main]]
   name = "Projects"
-  weight = 1
+  weight = 4
   url  = "projects/"
 [[menu.main]]
   name = "Contact me"
-  weight = 1
+  weight = 5
   url  = "contact/"
+  
+[[menu.main]]
+  name = "Personal Life"
+  weight = 6
+  url = "mylife/"
 

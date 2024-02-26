@@ -7,27 +7,36 @@ date = "2024-02-25"
 
 - **Research Statistician in Border Biomedical Research Center of UT El Paso** 
   January 2023 - Now
+  
   Job description:  
   - providing statistical consulting service 
   - Present statistical results, using charts, bullets, and graphs, in meetings to clients
   - data cleaning and data preparation 
+  
 - **Research Specialist in Border Biomedical Research Center of UT El Paso** 
   July 2023 - December 2023
-  Supervisor: Amy Wagler
+
   Job description: statistical consulting 
+  
 - **Research Assistant in Data Analytics Lab of UT El Paso** 
   September 2020 - June 2023
+  
   Job description: 
   - data cleaning and data preparation 
   - SAS/R/Matlab programming 
   - programming for statistical modeling  
+  
 - **Teaching Assistant**
   August 2015 - August 2020
+  
   Job description: Hosting workshops, grading assignments, and tutoring math for undergraduate students.
+  
 - **Software Engineer**
   September 2013 - May 2015
   Shanghai Integle Information Technology Limited Company
+  
   Job description: Developing a notebook to record chemistry experiments 
+  
   Used skills: Java, PHP and MySQL
 
 **RESEARCH** 
@@ -59,12 +68,20 @@ date = "2024-02-25"
 
 **Education**
 - **University of Texas at El Paso** 
-  PhD, *Computational Science (Statistics oriented)* 
+
+  PhD, *Computational Science* 
+  
   January 2018 - May 2023	
+  
 - **University of Texas at El Paso** 
+
   Master of Science, *Statistics* 
+  
   August 2015 - December 2017	
+  
 - **Minzu University of China** 
+
   Bachelor of Science, *Computer Science* 
+  
   September 2009 - July 2013 
 

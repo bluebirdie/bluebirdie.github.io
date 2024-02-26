@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "coder.css",
-	"sourceRoot": "/home/victor/quickstart",
+	"sourceRoot": "/home/victor/myblog",
 	"sources": [
 		"assets/scss/coder.scss",
 		"assets/scss/css/normalize.css",

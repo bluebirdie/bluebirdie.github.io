@@ -62,7 +62,11 @@
     <loc>http://localhost:1313/posts/math-typesetting/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mylife/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url>
