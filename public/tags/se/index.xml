@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Se on Dr. Bluebird</title>
+    <link>http://localhost:1313/tags/se/</link>
+    <description>Recent content in Se on Dr. Bluebird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/se/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sensitivity and specificity</title>
+      <link>http://localhost:1313/posts/sensitivity-and-specificity/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sensitivity-and-specificity/</guid>
+      <description>Sensitivity (True positive) Link to heading =Positive among all true&#xA;Sensitivity is for describing how sensitive a classifier or test is. Given a &amp;ldquo;true&amp;rdquo;, the probability of spotting this &amp;ldquo;true&amp;rdquo; is called sensitivity. $$ \text{Sensitivity}=P(positive|true) $$ For example, blood screening is used for spotting disease. Sensitivity of blood screening means the probability of getting a positive result when that person is actually sick. A sensitive blood test will spot all sick people and even take healthy people as sick (low specificity).</description>
+    </item>
+  </channel>
+</rss>

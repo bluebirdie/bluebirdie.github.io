@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/categories/theme-demo/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Biostats</title>
+      <link>http://localhost:1313/categories/biostats/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/biostats/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
