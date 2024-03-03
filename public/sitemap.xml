@@ -8,11 +8,44 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/assumptions/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/assumption/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/biostats/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/dr.bluebird/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/homoscedasticity/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/normality/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sensitivity/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/sensitivity-and-specificity/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/specificity/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
@@ -32,16 +65,10 @@
     <loc>http://localhost:1313/posts/markdown-syntax/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/series/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/syntax/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/theme-demo/</loc>
@@ -59,19 +86,7 @@
     <loc>http://localhost:1313/posts/more-rich-content/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/biostats/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/math-typesetting/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sensitivity/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/sensitivity-and-specificity/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/specificity/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>

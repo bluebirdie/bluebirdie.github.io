@@ -16,6 +16,13 @@
       <description>EXPERIENCE&#xA;Research Statistician in Border Biomedical Research Center of UT El Paso January 2023 - Now&#xA;Job description:&#xA;providing statistical consulting service Present statistical results, using charts, bullets, and graphs, in meetings to clients data cleaning and data preparation Research Specialist in Border Biomedical Research Center of UT El Paso July 2023 - December 2023&#xA;Job description: statistical consulting&#xA;Research Assistant in Data Analytics Lab of UT El Paso September 2020 - June 2023</description>
     </item>
     <item>
+      <title>About Assumptions in Statistics</title>
+      <link>http://localhost:1313/posts/assumptions/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/assumptions/</guid>
+      <description>Assumption is a common concept in statistical analysis. For example, we have normality assumption and homoscedasticity assumption in linear regression and ANOVA.&#xA;Assumptions are not like statistical conclusions in several ways.</description>
+    </item>
+    <item>
       <title>Sensitivity and Specificity</title>
       <link>http://localhost:1313/posts/sensitivity-and-specificity/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>

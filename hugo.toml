@@ -61,18 +61,17 @@ url = "https://www.linkedin.com/in/panfeng-liang-308201256/"
   weight = 2
   url = "cv/"
 [[menu.main]]
-  name = "Blog"
-  weight = 3
-  url  = "posts/"
-[[menu.main]]
   name = "Projects"
-  weight = 4
+  weight = 3
   url  = "projects/"
 [[menu.main]]
   name = "Contact me"
-  weight = 5
+  weight = 4
   url  = "contact/"
-  
+[[menu.main]]
+  name = "Blog"
+  weight = 5
+  url  = "posts/" 
 [[menu.main]]
   name = "Personal Life"
   weight = 6

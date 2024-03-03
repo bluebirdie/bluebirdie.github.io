@@ -10,7 +10,6 @@ tags = [
 categories = [
     "Biostats",
 ]
-series = ["Theme Demo"]
 +++
 
 

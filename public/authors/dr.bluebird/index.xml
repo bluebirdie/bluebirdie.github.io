@@ -6,14 +6,21 @@
     <description>Recent content in Dr.BlueBird on Dr. Bluebird</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/authors/dr.bluebird/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>sensitivity and specificity</title>
+      <title>About Assumptions in Statistics</title>
+      <link>http://localhost:1313/posts/assumptions/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/assumptions/</guid>
+      <description>Assumption is a common concept in statistical analysis. For example, we have normality assumption and homoscedasticity assumption in linear regression and ANOVA.&#xA;Assumptions are not like statistical conclusions in several ways.</description>
+    </item>
+    <item>
+      <title>Sensitivity and Specificity</title>
       <link>http://localhost:1313/posts/sensitivity-and-specificity/</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/sensitivity-and-specificity/</guid>
-      <description>Sensitivity (True positive) Link to heading =Positive among all true&#xA;Sensitivity is for describing how sensitive a classifier or test is. Given a &amp;ldquo;true&amp;rdquo;, the probability of spotting this &amp;ldquo;true&amp;rdquo; is called sensitivity. $$ \text{Sensitivity}=P(positive|true) $$ For example, blood screening is used for spotting disease. Sensitivity of blood screening means the probability of getting a positive result when that person is actually sick. A sensitive blood test will spot all sick people and even take healthy people as sick (low specificity).</description>
+      <description>Sensitivity (True positive) Link to heading = Positive among all true&#xA;Sensitivity is for describing how sensitive a classifier or test is. Given a &amp;ldquo;true&amp;rdquo;, the probability of spotting this &amp;ldquo;true&amp;rdquo; is called sensitivity. $$ \text{Sensitivity}=P(\text{positive}|\text{true}) $$ For example, a blood screening is used for spotting a disease. Sensitivity of the blood screening means the probability of getting a positive result when that person is actually sick. A very sensitive blood test will spot almost all sick people and even take healthy people as sick (low specificity).</description>
     </item>
   </channel>
 </rss>
