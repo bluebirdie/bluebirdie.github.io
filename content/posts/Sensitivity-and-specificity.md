@@ -1,5 +1,5 @@
 +++
-authors = ["Dr.BlueBird"]
+authors = ["Blue Bird"]
 title = "Sensitivity and Specificity"
 date = "2024-01-10"
 math = true
