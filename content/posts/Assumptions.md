@@ -17,7 +17,7 @@ categories = [
 
 
 
-Assumption is a common concept in statistical analysis. For example, we have normality assumption and homoscedasticity assumption in linear regression and ANOVA.
+Assumption is a common concept in statistical analysis,  such as normality and homoscedasticity assumption for general linear models, proportional odds assumption for ordinal regression, proportional hazard assumption for cox regression.
 
 Checking assumptions is different with making other statistical conclusions. 
 
@@ -34,7 +34,7 @@ $$
 H_1: \text{Violation of normality}.
 $$
 
-However, when we try to make other statistical conclusions, we try to put what we want to prove in the alternative hypothesis, such as 
+However, when we try to make other statistical conclusions, we usually put what we want to prove in the alternative hypothesis, such as 
 $$
 H_0: \text{the new treatment has no effect}
 $$
@@ -42,5 +42,5 @@ vs
 $$
 H_1: \text{the new treatment is effective}.
 $$
-**Last by not least, the result from assumption checking is usually a weak conclusion** compared with other statistical conclusions. For example, normality assumption holds does not mean there is evidence to support normality of the data. We do not need power and confidence level for normality checking, because we are not proving normality. Power and confidence level are only needed for making strong conclusion, such as "outcomes are different among treatment groups".
+**Last by not least, the result from assumption checking is usually a weak conclusion** compared with other statistical conclusions. For example, normality assumption holds does not mean there is evidence to support the normality of the data. We do not need to control power and confidence level for normality checking, because we are not proving normality. Power and confidence level are only needed for making strong conclusion, such as "outcomes are different among treatment groups".
 
