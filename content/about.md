@@ -10,6 +10,3 @@ I am a statistician at the Data Analytics Lab (DAL) at the University of Texas a
 3. Protocol review
 4. Data entry
 5. Clinical trials, etc
-
-
-These services are designed to support various research needs and ensure the success of your projects.
