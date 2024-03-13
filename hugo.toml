@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "Dr. Bluebird"
+title = "Welcome to my site!"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -14,7 +14,7 @@ noClasses = false
 
 [params]
   author = "Panfeng Liang"
-  info = "Research Statistician"
+  info = "Data Analyst"
   description = "My personal website"
   keywords = "blog, statistics, consulting, personal"
   avatarurl = "images/avatar.png"
